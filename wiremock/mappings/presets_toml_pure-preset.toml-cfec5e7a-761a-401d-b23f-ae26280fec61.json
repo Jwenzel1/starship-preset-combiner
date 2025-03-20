@@ -1,0 +1,33 @@
+{
+  "id" : "cfec5e7a-761a-401d-b23f-ae26280fec61",
+  "name" : "presets_toml_pure-preset.toml",
+  "request" : {
+    "url" : "/presets/toml/pure-preset.toml",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "Zm9ybWF0ID0gIiIiCiR1c2VybmFtZVwKJGhvc3RuYW1lXAokZGlyZWN0b3J5XAokZ2l0X2JyYW5jaFwKJGdpdF9zdGF0ZVwKJGdpdF9zdGF0dXNcCiRjbWRfZHVyYXRpb25cCiRsaW5lX2JyZWFrXAokcHl0aG9uXAokY2hhcmFjdGVyIiIiCgpbZGlyZWN0b3J5XQpzdHlsZSA9ICJibHVlIgoKW2NoYXJhY3Rlcl0Kc3VjY2Vzc19zeW1ib2wgPSAiW+Kdr10ocHVycGxlKSIKZXJyb3Jfc3ltYm9sID0gIlvina9dKHJlZCkiCnZpbWNtZF9zeW1ib2wgPSAiW+Kdrl0oZ3JlZW4pIgoKW2dpdF9icmFuY2hdCmZvcm1hdCA9ICJbJGJyYW5jaF0oJHN0eWxlKSIKc3R5bGUgPSAiYnJpZ2h0LWJsYWNrIgoKW2dpdF9zdGF0dXNdCmZvcm1hdCA9ICJbWygqJGNvbmZsaWN0ZWQkdW50cmFja2VkJG1vZGlmaWVkJHN0YWdlZCRyZW5hbWVkJGRlbGV0ZWQpXSgyMTgpICgkYWhlYWRfYmVoaW5kJHN0YXNoZWQpXSgkc3R5bGUpIgpzdHlsZSA9ICJjeWFuIgpjb25mbGljdGVkID0gIuKAiyIKdW50cmFja2VkID0gIuKAiyIKbW9kaWZpZWQgPSAi4oCLIgpzdGFnZWQgPSAi4oCLIgpyZW5hbWVkID0gIuKAiyIKZGVsZXRlZCA9ICLigIsiCnN0YXNoZWQgPSAi4omhIgoKW2dpdF9zdGF0ZV0KZm9ybWF0ID0gJ1woWyRzdGF0ZSggJHByb2dyZXNzX2N1cnJlbnQvJHByb2dyZXNzX3RvdGFsKV0oJHN0eWxlKVwpICcKc3R5bGUgPSAiYnJpZ2h0LWJsYWNrIgoKW2NtZF9kdXJhdGlvbl0KZm9ybWF0ID0gIlskZHVyYXRpb25dKCRzdHlsZSkgIgpzdHlsZSA9ICJ5ZWxsb3ciCgpbcHl0aG9uXQpmb3JtYXQgPSAiWyR2aXJ0dWFsZW52XSgkc3R5bGUpICIKc3R5bGUgPSAiYnJpZ2h0LWJsYWNrIgo=",
+    "headers" : {
+      "CF-RAY" : "9234f3e94cf559c1-IAD",
+      "Server" : "cloudflare",
+      "x-nf-request-id" : "01JPSNVBMFJYZPR1PA5PSD453F",
+      "cf-cache-status" : "DYNAMIC",
+      "strict-transport-security" : "max-age=31536000",
+      "Date" : "Thu, 20 Mar 2025 11:43:36 GMT",
+      "NEL" : "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Cache-Control" : "public,max-age=0,must-revalidate",
+      "Report-To" : "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=CvRmOAf4PNI0bjdD7O6RovyepQ020N4TeFH6uoQmcSyUOFp1bG6SywgZ3mC8b3i8bVcT%2FAVQd3IyZXZylvkH3Ce%2FaddNBztkKr2%2BSu7uSqe8HPCYQslJqN621uuuTA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "cache-status" : "\"Netlify Edge\"; fwd=miss",
+      "etag" : "\"548fdf10c7fb677b2dfdf5b9249c1caa-ssl\"",
+      "server-timing" : "cfL4;desc=\"?proto=TCP&rtt=9953&min_rtt=5410&rtt_var=5273&sent=4&recv=7&lost=0&retrans=0&sent_bytes=219&recv_bytes=947&delivery_rate=267652&cwnd=235&unsent_bytes=0&cid=832a76c17e937d0c&ts=448&x=0\"",
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "accept-ranges" : "bytes",
+      "Age" : "0",
+      "Content-Type" : "application/octet-stream"
+    }
+  },
+  "uuid" : "cfec5e7a-761a-401d-b23f-ae26280fec61",
+  "persistent" : true,
+  "insertionIndex" : 12
+}

@@ -1,0 +1,33 @@
+{
+  "id" : "39cd992a-20b3-4b67-92e0-a9ce4b8222aa",
+  "name" : "presets_toml_no-runtime-versions.toml",
+  "request" : {
+    "url" : "/presets/toml/no-runtime-versions.toml",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "W2J1bl0KZm9ybWF0ID0gInZpYSBbJHN5bWJvbF0oJHN0eWxlKSIKCltidWZdCmZvcm1hdCA9ICJ2aWEgWyRzeW1ib2xdKCRzdHlsZSkiCgpbY21ha2VdCmZvcm1hdCA9ICJ2aWEgWyRzeW1ib2xdKCRzdHlsZSkiCgpbY29ib2xdCmZvcm1hdCA9ICJ2aWEgWyRzeW1ib2xdKCRzdHlsZSkiCgpbY3J5c3RhbF0KZm9ybWF0ID0gInZpYSBbJHN5bWJvbF0oJHN0eWxlKSIKCltkYW1sXQpmb3JtYXQgPSAidmlhIFskc3ltYm9sXSgkc3R5bGUpIgoKW2RhcnRdCmZvcm1hdCA9ICJ2aWEgWyRzeW1ib2xdKCRzdHlsZSkiCgpbZGVub10KZm9ybWF0ID0gInZpYSBbJHN5bWJvbF0oJHN0eWxlKSIKCltkb3RuZXRdCmZvcm1hdCA9ICJbJHN5bWJvbCjwn46vICR0Zm0gKV0oJHN0eWxlKSIKCltlbGl4aXJdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbZWxtXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW2VybGFuZ10KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltmZW5uZWxdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbZ2xlYW1dCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbZ29sYW5nXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW2dyYWRsZV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltoYXhlXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW2hlbG1dCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbamF2YV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltqdWxpYV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltrb3RsaW5dCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbbHVhXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW21lc29uXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW25pbV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltub2RlanNdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbb2NhbWxdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2woXCgkc3dpdGNoX2luZGljYXRvciRzd2l0Y2hfbmFtZVwpICldKCRzdHlsZSknCgpbb3BhXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3BlcmxdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbcGhwXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3B1bHVtaV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbCRzdGFja10oJHN0eWxlKScKCltwdXJlc2NyaXB0XQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3B5dGhvbl0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltxdWFydG9dCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbcmFrdV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltyZWRdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbcmxhbmddCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbcnVieV0KZm9ybWF0ID0gJ3ZpYSBbJHN5bWJvbF0oJHN0eWxlKScKCltydXN0XQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3NvbGlkaXR5XQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3R5cHN0XQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3N3aWZ0XQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwoKW3ZhZ3JhbnRdCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbdmxhbmddCmZvcm1hdCA9ICd2aWEgWyRzeW1ib2xdKCRzdHlsZSknCgpbemlnXQpmb3JtYXQgPSAndmlhIFskc3ltYm9sXSgkc3R5bGUpJwo=",
+    "headers" : {
+      "CF-RAY" : "9234f2705f77d6cf-IAD",
+      "Server" : "cloudflare",
+      "vary" : "Accept-Encoding",
+      "x-nf-request-id" : "01JPSNSGQY2E8F4F2PP1MYR8NS",
+      "cf-cache-status" : "DYNAMIC",
+      "strict-transport-security" : "max-age=31536000",
+      "Date" : "Thu, 20 Mar 2025 11:42:35 GMT",
+      "NEL" : "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Cache-Control" : "public,max-age=0,must-revalidate",
+      "Report-To" : "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=y9QxXSAqlVHpVB98ff1Xxe5elt6SMfibTS1pC0Ysjra%2FLyoXPLy%2Ft%2FKxevVt%2F81KaUxX5M3N16L3WTdgiD6esWrF76YUmGMxWqzBfpNPp6Z15BIIJquv550%2Fs4mKCQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "cache-status" : "\"Netlify Edge\"; fwd=miss",
+      "etag" : "W/\"aa7d260dc380c09d61193fbfd9b272d8-ssl-df\"",
+      "server-timing" : "cfL4;desc=\"?proto=TCP&rtt=8445&min_rtt=6211&rtt_var=3925&sent=3&recv=7&lost=0&retrans=0&sent_bytes=219&recv_bytes=955&delivery_rate=233134&cwnd=250&unsent_bytes=0&cid=caa2e255a14b3fba&ts=421&x=0\"",
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Age" : "0",
+      "Content-Type" : "application/octet-stream"
+    }
+  },
+  "uuid" : "39cd992a-20b3-4b67-92e0-a9ce4b8222aa",
+  "persistent" : true,
+  "insertionIndex" : 15
+}

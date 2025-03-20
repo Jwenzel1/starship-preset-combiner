@@ -1,0 +1,30 @@
+{
+  "id" : "9f492c74-c148-4a0d-a89a-dd98282ecb05",
+  "name" : "presets_toml_no-empty-icons.toml",
+  "request" : {
+    "url" : "/presets/toml/no-empty-icons.toml",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "W2J1Zl0KZm9ybWF0ID0gJyh3aXRoIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2J1bl0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbY10KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24oLSRuYW1lKSApXSgkc3R5bGUpKScKCltjbWFrZV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbY29ib2xdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2NyeXN0YWxdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2RhbWxdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2RhcnRdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2Rlbm9dCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2RvdG5ldF0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKSjwn46vICR0Zm0gKV0oJHN0eWxlKSknCgpbZWxpeGlyXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiBcKE9UUCAkb3RwX3ZlcnNpb25cKSApXSgkc3R5bGUpKScKCltlbG1dCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW2VybGFuZ10KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbZmVubmVsXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltnbGVhbV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbZ29sYW5nXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltoYXNrZWxsXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltoZWxtXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltqYXZhXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltqdWxpYV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpba290bGluXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltsdWFdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW25pbV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbbm9kZWpzXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltvY2FtbF0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKShcKCRzd2l0Y2hfaW5kaWNhdG9yJHN3aXRjaF9uYW1lXCkgKV0oJHN0eWxlKSknCgpbb3BhXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltwYWNrYWdlXQpmb3JtYXQgPSAnKGlzIFskc3ltYm9sJHZlcnNpb25dKCRzdHlsZSkgKScKCltwZXJsXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltwaHBdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW3B1cmVzY3JpcHRdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW3B5dGhvbl0KZm9ybWF0ID0gJyh2aWEgWyR7c3ltYm9sfSR7cHllbnZfcHJlZml4fSgke3ZlcnNpb259ICkoXCgkdmlydHVhbGVudlwpICldKCRzdHlsZSkpJwoKW3F1YXJ0b10KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbcmFrdV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24tJHZtX3ZlcnNpb24gKV0oJHN0eWxlKSknCgpbcmVkXQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKCltybGFuZ10KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbcnVieV0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbcnVzdF0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbc2NhbGFdCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW3N3aWZ0XQpmb3JtYXQgPSAnKHZpYSBbJHN5bWJvbCgkdmVyc2lvbiApXSgkc3R5bGUpKScKClt0eXBzdF0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbdmFncmFudF0KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCgpbdmxhbmddCmZvcm1hdCA9ICcodmlhIFskc3ltYm9sKCR2ZXJzaW9uICldKCRzdHlsZSkpJwoKW3ppZ10KZm9ybWF0ID0gJyh2aWEgWyRzeW1ib2woJHZlcnNpb24gKV0oJHN0eWxlKSknCg==",
+    "headers" : {
+      "CF-RAY" : "9234f2d0c99707e4-IAD",
+      "Server" : "cloudflare",
+      "Cache-Status" : "\"Netlify Edge\"; fwd=miss",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "X-Nf-Request-Id" : "01JPSNSZT319ZFBCCWDGPR4DK6",
+      "Date" : "Thu, 20 Mar 2025 11:42:51 GMT",
+      "Strict-Transport-Security" : "max-age=31536000",
+      "Etag" : "W/\"ed60aef80030076d75fe86382f3c5255-ssl-df\"",
+      "Cache-Control" : "public,max-age=0,must-revalidate",
+      "Vary" : "Accept-Encoding",
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Age" : "0",
+      "Content-Type" : "application/octet-stream"
+    }
+  },
+  "uuid" : "9f492c74-c148-4a0d-a89a-dd98282ecb05",
+  "persistent" : true,
+  "insertionIndex" : 14
+}

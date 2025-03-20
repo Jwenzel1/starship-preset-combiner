@@ -1,0 +1,33 @@
+{
+  "id" : "b669d2cf-1a8c-46ce-8495-ff18b64628d0",
+  "name" : "presets_toml_plain-text-symbols.toml",
+  "request" : {
+    "url" : "/presets/toml/plain-text-symbols.toml",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "W2NoYXJhY3Rlcl0Kc3VjY2Vzc19zeW1ib2wgPSAiWz5dKGJvbGQgZ3JlZW4pIgplcnJvcl9zeW1ib2wgPSAiW3hdKGJvbGQgcmVkKSIKdmltY21kX3N5bWJvbCA9ICJbPF0oYm9sZCBncmVlbikiCgpbZ2l0X2NvbW1pdF0KdGFnX3N5bWJvbCA9ICIgdGFnICIKCltnaXRfc3RhdHVzXQphaGVhZCA9ICI+IgpiZWhpbmQgPSAiPCIKZGl2ZXJnZWQgPSAiPD4iCnJlbmFtZWQgPSAiciIKZGVsZXRlZCA9ICJ4IgoKW2F3c10Kc3ltYm9sID0gImF3cyAiCgpbYXp1cmVdCnN5bWJvbCA9ICJheiAiCgpbYnVmXQpzeW1ib2wgPSAiYnVmICIKCltidW5dCnN5bWJvbCA9ICJidW4gIgoKW2NdCnN5bWJvbCA9ICJDICIKCltjb2JvbF0Kc3ltYm9sID0gImNvYm9sICIKCltjb25kYV0Kc3ltYm9sID0gImNvbmRhICIKCltjcnlzdGFsXQpzeW1ib2wgPSAiY3IgIgoKW2NtYWtlXQpzeW1ib2wgPSAiY21ha2UgIgoKW2RhbWxdCnN5bWJvbCA9ICJkYW1sICIKCltkYXJ0XQpzeW1ib2wgPSAiZGFydCAiCgpbZGVub10Kc3ltYm9sID0gImRlbm8gIgoKW2RvdG5ldF0Kc3ltYm9sID0gIi5ORVQgIgoKW2RpcmVjdG9yeV0KcmVhZF9vbmx5ID0gIiBybyIKCltkb2NrZXJfY29udGV4dF0Kc3ltYm9sID0gImRvY2tlciAiCgpbZWxpeGlyXQpzeW1ib2wgPSAiZXhzICIKCltlbG1dCnN5bWJvbCA9ICJlbG0gIgoKW2Zlbm5lbF0Kc3ltYm9sID0gImZubCAiCgpbZm9zc2lsX2JyYW5jaF0Kc3ltYm9sID0gImZvc3NpbCAiCgpbZ2Nsb3VkXQpzeW1ib2wgPSAiZ2NwICIKCltnaXRfYnJhbmNoXQpzeW1ib2wgPSAiZ2l0ICIKCltnbGVhbV0Kc3ltYm9sID0gImdsZWFtICIKCltnb2xhbmddCnN5bWJvbCA9ICJnbyAiCgpbZ3JhZGxlXQpzeW1ib2wgPSAiZ3JhZGxlICIKCltndWl4X3NoZWxsXQpzeW1ib2wgPSAiZ3VpeCAiCgpbaGdfYnJhbmNoXQpzeW1ib2wgPSAiaGcgIgoKW2phdmFdCnN5bWJvbCA9ICJqYXZhICIKCltqdWxpYV0Kc3ltYm9sID0gImpsICIKCltrb3RsaW5dCnN5bWJvbCA9ICJrdCAiCgpbbHVhXQpzeW1ib2wgPSAibHVhICIKCltub2RlanNdCnN5bWJvbCA9ICJub2RlanMgIgoKW21lbW9yeV91c2FnZV0Kc3ltYm9sID0gIm1lbW9yeSAiCgpbbWVzb25dCnN5bWJvbCA9ICJtZXNvbiAiCgpbbmF0c10Kc3ltYm9sID0gIm5hdHMgIgoKW25pbV0Kc3ltYm9sID0gIm5pbSAiCgpbbml4X3NoZWxsXQpzeW1ib2wgPSAibml4ICIKCltvY2FtbF0Kc3ltYm9sID0gIm1sICIKCltvcGFdCnN5bWJvbCA9ICJvcGEgIgoKW29zLnN5bWJvbHNdCkFJWCA9ICJhaXggIgpBbHBhcXVpdGEgPSAiYWxxICIKQWxtYUxpbnV4ID0gImFsbWEgIgpBbHBpbmUgPSAiYWxwICIKQW1hem9uID0gImFteiAiCkFuZHJvaWQgPSAiYW5kciAiCkFyY2ggPSAicmNoICIKQXJ0aXggPSAiYXR4ICIKQ2FjaHlPUyA9ICJjYWNoICIKQ2VudE9TID0gImNlbnQgIgpEZWJpYW4gPSAiZGViICIKRHJhZ29uRmx5ID0gImRmYnNkICIKRW1zY3JpcHRlbiA9ICJlbXNjICIKRW5kZWF2b3VyT1MgPSAibmRldiAiCkZlZG9yYSA9ICJmZWQgIgpGcmVlQlNEID0gImZic2QgIgpHYXJ1ZGEgPSAiZ2FydSAiCkdlbnRvbyA9ICJnZW50ICIKSGFyZGVuZWRCU0QgPSAiaGJzZCAiCklsbHVtb3MgPSAibHVtICIKS2FsaSA9ICJrYWxpICIKTGludXggPSAibG54ICIKTWFib3ggPSAibWJveCAiCk1hY29zID0gIm1hYyAiCk1hbmphcm8gPSAibWpvICIKTWFyaW5lciA9ICJtcm4gIgpNaWRuaWdodEJTRCA9ICJtaWQgIgpNaW50ID0gIm1pbnQgIgpOZXRCU0QgPSAibmJzZCAiCk5peE9TID0gIm5peCAiCk5vYmFyYSA9ICJuYnJhICIKT3BlbkJTRCA9ICJvYnNkICIKT3BlbkNsb3VkT1MgPSAib2NvcyAiCm9wZW5FdWxlciA9ICJvZXVsICIKb3BlblNVU0UgPSAib3N1c2UgIgpPcmFjbGVMaW51eCA9ICJvcmFjICIKUG9wID0gInBvcCAiClJhc3BiaWFuID0gInJhc3AgIgpSZWRoYXQgPSAicmhsICIKUmVkSGF0RW50ZXJwcmlzZSA9ICJyaGVsICIKUm9ja3lMaW51eCA9ICJya3kgIgpSZWRveCA9ICJyZWRveCAiClNvbHVzID0gInNvbCAiClNVU0UgPSAic3VzZSAiClVidW50dSA9ICJ1Ym50ICIKVWx0cmFtYXJpbmUgPSAidWx0bSAiClVua25vd24gPSAidW5rICIKVW9zID0gInVvcyAiClZvaWQgPSAidm9pZCAiCldpbmRvd3MgPSAid2luICIKCltwYWNrYWdlXQpzeW1ib2wgPSAicGtnICIKCltwZXJsXQpzeW1ib2wgPSAicGwgIgoKW3BocF0Kc3ltYm9sID0gInBocCAiCgpbcGlqdWxfY2hhbm5lbF0Kc3ltYm9sID0gInBpanVsICIKCltwdWx1bWldCnN5bWJvbCA9ICJwdWx1bWkgIgoKW3B1cmVzY3JpcHRdCnN5bWJvbCA9ICJwdXJzICIKCltweXRob25dCnN5bWJvbCA9ICJweSAiCgpbcXVhcnRvXQpzeW1ib2wgPSAicXVhcnRvICIKCltyYWt1XQpzeW1ib2wgPSAicmFrdSAiCgpbcnVieV0Kc3ltYm9sID0gInJiICIKCltydXN0XQpzeW1ib2wgPSAicnMgIgoKW3NjYWxhXQpzeW1ib2wgPSAic2NhbGEgIgoKW3NwYWNrXQpzeW1ib2wgPSAic3BhY2sgIgoKW3NvbGlkaXR5XQpzeW1ib2wgPSAic29saWRpdHkgIgoKW3N0YXR1c10Kc3ltYm9sID0gIlt4XShib2xkIHJlZCkgIgoKW3N1ZG9dCnN5bWJvbCA9ICJzdWRvICIKCltzd2lmdF0Kc3ltYm9sID0gInN3aWZ0ICIKClt0eXBzdF0Kc3ltYm9sID0gInR5cHN0ICIKClt0ZXJyYWZvcm1dCnN5bWJvbCA9ICJ0ZXJyYWZvcm0gIgoKW3ppZ10Kc3ltYm9sID0gInppZyAiCg==",
+    "headers" : {
+      "CF-RAY" : "9234f214bf141fe0-IAD",
+      "Server" : "cloudflare",
+      "vary" : "Accept-Encoding",
+      "x-nf-request-id" : "01JPSNS2DENP9JP5G8FMJWGKDB",
+      "cf-cache-status" : "DYNAMIC",
+      "strict-transport-security" : "max-age=31536000",
+      "Date" : "Thu, 20 Mar 2025 11:42:21 GMT",
+      "NEL" : "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Cache-Control" : "public,max-age=0,must-revalidate",
+      "Report-To" : "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=51pg7ExWjP%2BL2s2McqdB9vc5qW53FXXrcLbWSfuroCLIcr%2B3ev%2Fz4kXY7UBhegRWDJNkeLJkZhBG1cEYYTYQpH2dSAGYemFBl70lP8oDCvN0RSRClFiFYIk20iV4zQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "cache-status" : "\"Netlify Edge\"; fwd=miss",
+      "etag" : "W/\"bb181637afcd49207a3b446cc4d79836-ssl-df\"",
+      "server-timing" : "cfL4;desc=\"?proto=TCP&rtt=9386&min_rtt=6253&rtt_var=4583&sent=3&recv=7&lost=0&retrans=0&sent_bytes=219&recv_bytes=954&delivery_rate=231568&cwnd=246&unsent_bytes=0&cid=f5cb76c9cd01749e&ts=370&x=0\"",
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Age" : "0",
+      "Content-Type" : "application/octet-stream"
+    }
+  },
+  "uuid" : "b669d2cf-1a8c-46ce-8495-ff18b64628d0",
+  "persistent" : true,
+  "insertionIndex" : 16
+}

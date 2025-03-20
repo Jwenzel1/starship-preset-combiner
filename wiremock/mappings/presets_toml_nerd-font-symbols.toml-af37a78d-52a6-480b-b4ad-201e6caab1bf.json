@@ -1,0 +1,30 @@
+{
+  "id" : "af37a78d-52a6-480b-b4ad-201e6caab1bf",
+  "name" : "presets_toml_nerd-font-symbols.toml",
+  "request" : {
+    "url" : "/presets/toml/nerd-font-symbols.toml",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "base64Body" : "W2F3c10Kc3ltYm9sID0gIu6MvSAgIgoKW2J1Zl0Kc3ltYm9sID0gIu+SnSAiCgpbY10Kc3ltYm9sID0gIu6YniAiCgpbY21ha2VdCnN5bWJvbCA9ICLunpQgIgoKW2NvbmRhXQpzeW1ib2wgPSAi74SMICIKCltjcnlzdGFsXQpzeW1ib2wgPSAi7pivICIKCltkYXJ0XQpzeW1ib2wgPSAi7p6YICIKCltkaXJlY3RvcnldCnJlYWRfb25seSA9ICIg87CMviIKCltkb2NrZXJfY29udGV4dF0Kc3ltYm9sID0gIu+MiCAiCgpbZWxpeGlyXQpzeW1ib2wgPSAi7pitICIKCltlbG1dCnN5bWJvbCA9ICLumKwgIgoKW2Zlbm5lbF0Kc3ltYm9sID0gIu6aryAiCgpbZm9zc2lsX2JyYW5jaF0Kc3ltYm9sID0gIu+QmCAiCgpbZ2l0X2JyYW5jaF0Kc3ltYm9sID0gIu+QmCAiCgpbZ2l0X2NvbW1pdF0KdGFnX3N5bWJvbCA9ICcg75CSICcKCltnb2xhbmddCnN5bWJvbCA9ICLumKcgIgoKW2d1aXhfc2hlbGxdCnN5bWJvbCA9ICLvjKUgIgoKW2hhc2tlbGxdCnN5bWJvbCA9ICLunbcgIgoKW2hheGVdCnN5bWJvbCA9ICLumaYgIgoKW2hnX2JyYW5jaF0Kc3ltYm9sID0gIu+QmCAiCgpbaG9zdG5hbWVdCnNzaF9zeW1ib2wgPSAi7qyBICIKCltqYXZhXQpzeW1ib2wgPSAi7omWICIKCltqdWxpYV0Kc3ltYm9sID0gIu6YpCAiCgpba290bGluXQpzeW1ib2wgPSAi7pi0ICIKCltsdWFdCnN5bWJvbCA9ICLumKAgIgoKW21lbW9yeV91c2FnZV0Kc3ltYm9sID0gIvOwjZsgIgoKW21lc29uXQpzeW1ib2wgPSAi87CUtyAiCgpbbmltXQpzeW1ib2wgPSAi87CGpSAiCgpbbml4X3NoZWxsXQpzeW1ib2wgPSAi74yTICIKCltub2RlanNdCnN5bWJvbCA9ICLunJggIgoKW29jYW1sXQpzeW1ib2wgPSAi7pm6ICIKCltvcy5zeW1ib2xzXQpBbHBhcXVpdGEgPSAi7qqiICIKQWxwaW5lID0gIu+MgCAiCkFsbWFMaW51eCA9ICLvjJ0gIgpBbWF6b24gPSAi74mwICIKQW5kcm9pZCA9ICLvhbsgIgpBcmNoID0gIu+MgyAiCkFydGl4ID0gIu+MnyAiCkNhY2h5T1MgPSAi74yDICIKQ2VudE9TID0gIu+MhCAiCkRlYmlhbiA9ICLvjIYgIgpEcmFnb25GbHkgPSAi7oqOICIKRW1zY3JpcHRlbiA9ICLviIUgIgpFbmRlYXZvdXJPUyA9ICLvhpcgIgpGZWRvcmEgPSAi74yKICIKRnJlZUJTRCA9ICLvjIwgIgpHYXJ1ZGEgPSAi87CbkyAiCkdlbnRvbyA9ICLvjI0gIgpIYXJkZW5lZEJTRCA9ICLzsJ6MICIKSWxsdW1vcyA9ICLzsIi4ICIKS2FsaSA9ICLvjKcgIgpMaW51eCA9ICLvjJogIgpNYWJveCA9ICLurKkgIgpNYWNvcyA9ICLvjIIgIgpNYW5qYXJvID0gIu+MkiAiCk1hcmluZXIgPSAi74eNICIKTWlkbmlnaHRCU0QgPSAi74aGICIKTWludCA9ICLvjI4gIgpOZXRCU0QgPSAi74CkICIKTml4T1MgPSAi74yTICIKTm9iYXJhID0gIu+OgCAiCk9wZW5CU0QgPSAi87CIuiAiCm9wZW5TVVNFID0gIu+MlCAiCk9yYWNsZUxpbnV4ID0gIvOwjLcgIgpQb3AgPSAi74yqICIKUmFzcGJpYW4gPSAi74yVICIKUmVkaGF0ID0gIu+MliAiClJlZEhhdEVudGVycHJpc2UgPSAi74yWICIKUm9ja3lMaW51eCA9ICLvjKsgIgpSZWRveCA9ICLzsICYICIKU29sdXMgPSAi87CgsyAiClNVU0UgPSAi74yUICIKVWJ1bnR1ID0gIu+MmyAiClVua25vd24gPSAi74itICIKVm9pZCA9ICLvjK4gIgpXaW5kb3dzID0gIvOwjbIgIgoKW3BhY2thZ2VdCnN5bWJvbCA9ICLzsI+XICIKCltwZXJsXQpzeW1ib2wgPSAi7pm+ICIKCltwaHBdCnN5bWJvbCA9ICLumIggIgoKW3BpanVsX2NoYW5uZWxdCnN5bWJvbCA9ICLvkJggIgoKW3B5dGhvbl0Kc3ltYm9sID0gIu6ItSAiCgpbcmxhbmddCnN5bWJvbCA9ICLzsJ+UICIKCltydWJ5XQpzeW1ib2wgPSAi7p6RICIKCltydXN0XQpzeW1ib2wgPSAi87GYlyAiCgpbc2NhbGFdCnN5bWJvbCA9ICLunLcgIgoKW3N3aWZ0XQpzeW1ib2wgPSAi7p2VICIKClt6aWddCnN5bWJvbCA9ICLumqkgIgoKW2dyYWRsZV0Kc3ltYm9sID0gIu6ZoCAiCg==",
+    "headers" : {
+      "CF-RAY" : "9234ee97cb5ec960-IAD",
+      "Server" : "cloudflare",
+      "Cache-Status" : "\"Netlify Edge\"; hit",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "X-Nf-Request-Id" : "01JPSNMPYJBW84YJ64XAES0M7P",
+      "Date" : "Thu, 20 Mar 2025 11:39:58 GMT",
+      "Strict-Transport-Security" : "max-age=31536000",
+      "Etag" : "W/\"d103f8d3534bcd1beeaa8df487178266-ssl-df\"",
+      "Cache-Control" : "public,max-age=0,must-revalidate",
+      "Vary" : "Accept-Encoding",
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Age" : "1067",
+      "Content-Type" : "application/octet-stream"
+    }
+  },
+  "uuid" : "af37a78d-52a6-480b-b4ad-201e6caab1bf",
+  "persistent" : true,
+  "insertionIndex" : 6
+}
